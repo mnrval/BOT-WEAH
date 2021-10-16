@@ -1,0 +1,5 @@
+Cara Install Bot
+
+pkg update && pkg upgrade && pkg install nodejs && pkg install bash && pkg install ffmpeg && termux-setup-storage && cd /sdcard && cp -r bot $HOME && cd && cd bot
+
+npm start
